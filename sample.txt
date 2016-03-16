@@ -1,6 +1,5 @@
 L to R
-<<<<<<< HEAD
 why
-=======
 R to L
->>>>>>> origin/master
+done
+
